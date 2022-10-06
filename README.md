@@ -7,9 +7,9 @@ Doing test-driven development (TDD).
 
 ## To get a local copy run the following steps:
 
-- Copy this link [this link](git@github.com:shahira-sadat/TDD-Project.git)
+- Copy [this link](https://github.com/shahira-sadat/TDD-Project)
 - Open your terminal or command line
-- Run "git clone Paste [this link](git@github.com:shahira-sadat/TDD-Project.git)"
+- Run "git clone Paste [this link](https://github.com/shahira-sadat/TDD-Project)"
 - Open the folder with your code editor
 
 ## To run the tests
